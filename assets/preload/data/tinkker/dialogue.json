@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Kil-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "CALA-BOCA!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Chegou seu fim, diga adeus ao universo Bluey"
+		}
+	]
+}
