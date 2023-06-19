@@ -1,0 +1,4 @@
+basically functions that have to be pasted inside scripts to be used
+bc i don't know how to make global functions on lua
+(calling code from other lua script)
+and because i don't have good memory :+1:
